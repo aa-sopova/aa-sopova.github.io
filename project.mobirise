@@ -555,7 +555,7 @@
     },
     "qualification.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Qualification",
         "title": "Образование и квалификация",
         "order": 2
       },
@@ -988,7 +988,7 @@
     },
     "contacts.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Contacts",
         "title": "Контакты",
         "order": 1
       },
