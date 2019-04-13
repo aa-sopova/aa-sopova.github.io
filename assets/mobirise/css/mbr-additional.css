@@ -1628,6 +1628,10 @@ body {
 .cid-rnxjh9sUXL .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rnxjh9sUXL .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rnxjh9sUXL .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rnxjh9sUXL .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rnxjh9sUXL .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1729,6 +1733,10 @@ body {
   .cid-rnxjh9sUXL .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-rnxjh9sUXL .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rnxjh9sUXL .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-rnxjh9sUXL .navbar-collapse.collapsing .navbar-buttons,
   .cid-rnxjh9sUXL .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1793,7 +1801,11 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rnxjide9Uq {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-rnxjide9Uq .mbr-text,
+.cid-rnxjide9Uq .mbr-section-btn {
+  text-align: center;
 }
 .cid-rnxjHJelEI {
   padding-top: 60px;
@@ -2066,6 +2078,10 @@ body {
 .cid-rnxjh9sUXL .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rnxjh9sUXL .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rnxjh9sUXL .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rnxjh9sUXL .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rnxjh9sUXL .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2166,6 +2182,10 @@ body {
   .cid-rnxjh9sUXL .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rnxjh9sUXL .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rnxjh9sUXL .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rnxjh9sUXL .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rnxjh9sUXL .navbar-collapse.collapsing .navbar-buttons,
   .cid-rnxjh9sUXL .navbar-collapse.show .navbar-buttons {
